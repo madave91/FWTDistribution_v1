@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.2.1_e3fc743a411699a2289f9e9381a9a330e2ec9264.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave&apos;o\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9_918dc07fd2d77274cfb93166737299c82d0624cc.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.2.1_eab180fadaf9c94613773cc24a3860a83a5fc6ba.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.2.1_1a74415205d5fcbd5fe6ea55b6f662f0a442fd02.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_8c8530355df2ba7ddba699d20069af521d7ad82c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave&apos;o\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\google-api-client-1.22.0_2c56a0e1f14cf91667d7f3436c2562140c888233.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave&apos;o\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\google-http-client-1.22.0_57d59e3f2372bf0f6298319e61487bb74272f0a1.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.2.1_22bfff440ac368adbc8690315206deece3eb539a.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.2.1_77e3de8af62fcfa69b87ba183cd5478f566a862c.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_e31ec669eee330937686ee62e5002cab2fc3c674.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_8e51cc56421502d62318202ed108fafc9b17937f.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.2.1_f9d70083daac3f8a2cce9a601e3430658993fdc1.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\pub.devrel-easypermissions-0.1.5_1b9c8af98f652c7a82fbe4af49e8ca673c971cbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave&apos;o\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.22.0\7a0fe12b7d8189a821934d6f9d6586d00180e461\google-api-client-android-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.22.0_5fc6fee23fc0d090802e19e43659187207c87418.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave&apos;o\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3_66b9ee17fa0b57f87827140cb3aa26235c7c7c4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave&apos;o\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\guava-jdk5-17.0_d965352b0fa490a70cbb6d1922ce314a72eb50c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave&apos;o\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-sheets\v4-rev15-1.22.0\994e9f81074656c703b19d01ae3fe4124e9ec016\google-api-services-sheets-v4-rev15-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="994e9f81074656c703b19d01ae3fe4124e9ec016">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\google-api-services-sheets-v4-rev15-1.22.0_fb30e87b58983692668e0995d3a7c2cf6da9c106.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d4092ca51012b284c7e2686fab86a9b02e4214be">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\instant-run_c13a37a3770cd2c1b5ce4db7c6f9752efb46312c.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.2.1_75c99c3a68b0bfea1e3c8f6db811bb391db4042c.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\2.2.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e325e9ba5c23d635d0cfaa76c349fca83101f8a">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\jp.wasabeef-recyclerview-animators-2.2.3_c51ae2afa3350b6dfa2b23d9cef7287962d260b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave&apos;o\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.22.0_05d46098ad1638641007fe6bbfa56402d0523831.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_1a8fc6e161c319321f3fddca016ced686b2a805a.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_95aec049a6d140383c5b9359adf9e80f019667d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave&apos;o\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.22.0\6d1e1a76a16a244ab2f41775791be1dd0ec2878a\google-http-client-android-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.22.0_7d6d92c47c41ccbbe39bbad1009a27aaa876638e.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.2.1_5f742a81fcbd559e0ded4c2ba1dc3a6ababf6f15.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave&apos;o\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_d98799f02825de799238606542b53cf06bf192aa.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c50f39acd83cde0b8ad0e3c837c1ff8fbc4291d">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_131a7c29b3b4aaf73100ceb2be85a2802b69f5bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dave&apos;o\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.22.0_a6afede60299706e68ed8179805554efdb9e5e0c.jar" />
+    </item>
+    <item
+        jar="E:\DOC\Android\FWTDistribution\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="E:\DOC\Android\FWTDistribution\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_72b62337a97e1ce81dcb847af4fa903c615fdc5b.jar" />
+    </item>
+
+</items>
